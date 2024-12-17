@@ -1,6 +1,6 @@
-REM Author Scriptkiddiee 
+REM Author Malwarekid 
 REM dont reshare without owners permission 
-REM follow me on ig :- @scriptkiddiee
+REM follow me on ig :- @malwarekid
 
 GUI r
 DELAY 1000
